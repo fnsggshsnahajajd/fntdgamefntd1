@@ -154,7 +154,7 @@
             }
         ]
     },
-        "Withered Chica": {
+    "Withered Chica": {
             "Type": "Single",
             "Image": "rbxassetid://16632209265",
             "Rarity": "Rare",
@@ -231,7 +231,7 @@
                 }
             ]
         },
-    "Withered Freddy": {
+        "Withered Freddy": {
         "Type": "Continuous",
         "Image": "rbxassetid://16632239120",
         "Rarity": "Mythic",
@@ -15234,7 +15234,6 @@
                 "Bleed": 0.65,
                 "BleedTime": 1.5
             }
-
         ]
     },
     "Warpseer Mangle": {
