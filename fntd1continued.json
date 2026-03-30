@@ -15293,6 +15293,235 @@
             }
         ]
     },
+    "Old Man Chocosequences": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://107484671601767",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 2000,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 2666,
+                "Range": 30,
+                "Damage": 4000,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 3777
+                "Range": 34,
+                "Damage": 5555,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 4444,
+                "Range": 38,
+                "Damage": 6000,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+	"Dreaded Chocolate Bonnie": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://91098677028324",
+        "Rarity": "Apex",
+        "PlacePrice": 7000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 40,
+                "Damage": 10000,
+                "Cooldown":1.5
+            },
+            {
+                "Price": 9999,
+                "Range": 35,
+                "Damage": 13000,
+                "Cooldown": 1.0
+            },
+            {
+                "Price": 12000,
+                "Range": 45,
+                "Damage": 20000,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 25000,
+                "Range": 50,
+                "Damage": 4000p,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+	"Egg-a-Tron Cupcake": {
+        "Type": "Explosive",
+        "Image": "rbxassetid://133758722645557",
+        "Rarity": "Rare",
+        "PlacePrice": 1500,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 2000,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown":3
+            },
+            {
+                "Price": 2500,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 3500,
+                "Range": 35,
+                "Damage": 2000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 4000,
+                "Range": 40,
+                "Damage": 3000,
+                "Cooldown": 1.0
+            }
+        ]
+    },
+	"Egg Launcher Rockstar Chica": {
+        "Type": "Explosive",
+        "Image": "rbxassetid://93716695562575",
+        "Rarity": "Epic",
+        "PlacePrice": 5000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 6000,
+                "Range": 20,
+                "Damage": 700,
+                "Cooldown": 3
+            },
+            {
+                "Price": 7000,
+                "Range": 900,
+                "Damage": 60,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 8000,
+                "Range": 44,
+                "Damage": 1200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 9000,
+                "Range": 50,
+                "Damage": 1500,
+                "Cooldown": 1.0
+            }
+        ]
+    },
+	"Easter Egg Puppet": {
+        "Type": "AOE",
+        "Image": "rbxassetid://124168599692454",
+        "Rarity": "Secret",
+        "PlacePrice": 12000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 14000,
+                "Range": 20,
+                "Damage": 50,
+                "Cooldown": 4
+            },
+            {
+                "Price": 18000,
+                "Range": 27,
+                "Damage": 5000,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 20000,
+                "Range": 37,
+                "Damage": 9000,
+               "Cooldown": 2
+            },
+            {
+                "Price": 25000,
+                "Range": 50,
+                "Damage": 12000,
+                "Cooldown": 1
+            }
+
+        ]
+    },
+	"Cupid JJ": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://97596017328323",
+        "Rarity": "Mythic",
+        "PlacePrice": 1895,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 2000,
+                "Range": 20,
+                "Damage": 100,
+                "Cooldown": 3
+            },
+            {
+                "Price": 2500,
+                "Range": 30,
+                "Damage": 600,
+                "Cooldown": 2
+            },
+            {
+                "Price": 3000,
+                "Range": 35,
+                "Damage": 1200,
+                "Cooldown": 1.9
+            },
+            {
+                "Price": 4000,
+                "Range": 40,
+                "Damage": 2000,
+                "Cooldown": 1.5
+            }
+        ]
+    },
     "Glitchtrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://101957224781287",
