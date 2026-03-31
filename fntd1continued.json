@@ -1500,7 +1500,7 @@
 	"YtbTrap": {
         "Type": "Single",
         "Image": "rbxassetid://110481159580131",
-        "Rarity": "Apex",
+        "Rarity": "Nightmare",
         "PlacePrice": 1000,
         "Max": 3,
         "Offset": 0.3,
@@ -1539,7 +1539,7 @@
 	"BrokenCola": {
         "Type": "Splash",
         "Image": "rbxassetid://133721738587445",
-        "Rarity": "Apex",
+        "Rarity": "Nightmare",
         "PlacePrice": 9999,
         "Max": 3,
         "Offset": 0.3,
