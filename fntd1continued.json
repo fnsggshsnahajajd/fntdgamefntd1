@@ -1454,13 +1454,13 @@
             }
         ]
     },
-	"HyperCat": {
-        "Type": "Single",
-        "Image": "rbxassetid://124419300753637",
+    "HyperCat": {
+        "Type": "Support",
+        "Image": "rbxassetid://17851638702",
         "Rarity": "Secret",
-        "PlacePrice": 7777,
-        "Max": 3,
-        "Offset": 0.3,
+        "PlacePrice": 1000,
+        "NoEnemyAttack": true,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1468,28 +1468,32 @@
         },
         "Upgrades": [
             {
-                "Price": 8888,
-                "Range": 20,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.06
             },
             {
-                "Price": 9999,
+                "Price": 1700,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.12
+            },
+            {
+                "Price": 2200,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.25
+            },
+            {
+                "Price": 2500,
                 "Range": 25,
-                "Damage": 2000,
-                "Cooldown": 1
-            },
-            {
-                "Price": 11111,
-                "Range": 30,
-                "Damage": 4000,
-                "Cooldown": 1
-            },
-            {
-                "Price": 12121,
-                "Range": 40,
-                "Damage": 7777,
-                "Cooldown": 1
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.45
             }
         ]
     },
