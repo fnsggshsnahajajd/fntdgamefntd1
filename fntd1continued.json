@@ -1454,6 +1454,162 @@
             }
         ]
     },
+	"HyperCat": {
+        "Type": "Single",
+        "Image": "rbxassetid://124419300753637",
+        "Rarity": "Secret",
+        "PlacePrice": 7777,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 8888,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 9999,
+                "Range": 25,
+                "Damage": 2000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 11111,
+                "Range": 30,
+                "Damage": 4000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 12121,
+                "Range": 40,
+                "Damage": 7777,
+                "Cooldown": 1
+            }
+        ]
+    },
+	"YtbTrap": {
+        "Type": "Single",
+        "Image": "rbxassetid://110481159580131",
+        "Rarity": "Apex",
+        "PlacePrice": 1000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 1234,
+                "Range": 20,
+                "Damage": 100,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 4567,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 8910,
+                "Range": 30,
+                "Damage": 300,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 11123,
+                "Range": 40,
+                "Damage": 400,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+	"BrokenCola": {
+        "Type": "Splash",
+        "Image": "rbxassetid://133721738587445",
+        "Rarity": "Apex",
+        "PlacePrice": 9999,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 10101,
+                "Range": 52,
+                "Damage": 10000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 19999,
+                "Range": 55,
+                "Damage": 20000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 29999,
+                "Range": 59,
+                "Damage": 29999,
+                "Cooldown": 2
+            },
+            {
+                "Price": 39999,
+                "Range": 60,
+                "Damage": 39999,
+                "Cooldown": 1
+            }
+        ]
+    },
+	"VoVa36K": {
+        "Type": "Single",
+        "Image": "rbxassetid://82286163026477",
+        "Rarity": "Secret",
+        "PlacePrice": 3636,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 3636,
+                "Range": 20,
+                "Damage": 3600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 4636,
+                "Range": 36,
+                "Damage": 3636
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 9936,
+                "Range": 36,
+                "Damage": 4036,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 36363,
+                "Range": 36,
+                "Damage": 5363,
+                "Cooldown": 0.5
+            }
+        ]
+    },
 	"Birthday Bash Bonnie": {
         "Type": "Nuke",
         "Image": "rbxassetid://72792573129785",
@@ -1467,6 +1623,8 @@
             "Y": 0,
             "Z": 0
         },
+
+		
         "Upgrades": [
             {
                 "Price": 0,
