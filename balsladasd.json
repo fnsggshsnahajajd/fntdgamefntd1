@@ -81,6 +81,45 @@
             }
         ]
     },
+		"YtbTrap": {
+        "Type": "Single",
+        "Image": "rbxassetid://110481159580131",
+        "Rarity": "Nightmare",
+        "PlacePrice": 1000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 100,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 4567,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 8910,
+                "Range": 30,
+                "Damage": 300,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 11123,
+                "Range": 40,
+                "Damage": 400,
+                "Cooldown": 0.1
+            }
+        ]
+    },
         "Sand Castle Foxy": {
         "Type": "Support",
         "Image": "rbxassetid://92986091581137",
