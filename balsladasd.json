@@ -158,46 +158,6 @@
                 "Cooldown": 2
             }
         ]
-    },
-	    "VoVa36K": {
-        "Type": "Single",
-        "Image": "rbxassetid://82286163026477",
-        "Rarity": "Secret",
-        "PlacePrice": 3636,
-        "Max": 3,
-        "Offset": 0.3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 3600,
-                "Cooldown": 1
-            },
-            {
-                "Price": 4636,
-                "Range": 36,
-                "Damage": 3636
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 9936,
-                "Range": 36,
-                "Damage": 4036,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 36363,
-                "Range": 36,
-                "Damage": 5363,
-                "Cooldown": 0.5
-            }
-        ]
-    },
         "Sand Castle Foxy": {
         "Type": "Support",
         "Image": "rbxassetid://92986091581137",
