@@ -159,6 +159,84 @@
             }
         ]
 	},
+	    "Broken Afton": {
+        "Type": "Rage",
+        "Image": "rbxassetid://133716918470210",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 260,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 4567,
+                "Range": 25,
+                "Damage": 400,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 8910,
+                "Range": 30,
+                "Damage": 500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 11123,
+                "Range": 32,
+                "Damage": 650,
+                "Cooldown": 0.6
+            }
+        ]
+    },
+	   "Glitch Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://106956503271104",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 4567,
+                "Range": 25,
+                "Damage": 1500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 8910,
+                "Range": 30,
+                "Damage": 2000,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 11123,
+                "Range": 32,
+                "Damage": 2500,
+                "Cooldown": 0.9
+            }
+        ]
+    },
         "Sand Castle Foxy": {
         "Type": "Support",
         "Image": "rbxassetid://92986091581137",
