@@ -277,7 +277,7 @@
         ]
     },
 		"Glith Boy": {
-        "Type": Explosion",
+        "Type": "Explosion",
         "Image": "rbxassetid://89686631857948",
         "Rarity": "Secret",
         "PlacePrice": 5000,
