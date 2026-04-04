@@ -356,7 +356,7 @@
     },
         "Sand Castle Foxy": {
         "Type": "Support",
-        "Image": "rbxassetid://92986091581137",
+        "Image": "rbxassetid://115502343677706",
         "Rarity": "Secret",
         "PlacePrice": 2250,
         "NoEnemyAttack": true,
@@ -399,7 +399,7 @@
     },
 	    "Mango": {
         "Type": "Single",
-        "Image": "rbxassetid://91403386283391",
+        "Image": "rbxassetid://115502343677706",
         "Rarity": "Epic",
         "PlacePrice": 2500,
         "Max": 4,
@@ -437,7 +437,7 @@
     },
 	    "Angry Chuca": {
         "Type": "Pierce",
-        "Image": "rbxassetid://115739759637258",
+        "Image": "rbxassetid://115502343677706",
         "Rarity": "Mythic",
         "PlacePrice": 3000,
         "Max": 3,
@@ -475,7 +475,7 @@
     },
 	    "The Mighty Jimmy": {
         "Type": "Splash",
-        "Image": "rbxassetid://109373348950815",
+        "Image": "rbxassetid://115502343677706",
         "Rarity": "Secret",
         "PlacePrice": 550,
         "Max": 1,
@@ -513,7 +513,7 @@
     },
 	    "Breadbear": {
         "Type": "Full AOE",
-        "Image": "rbxassetid://80475833622884",
+        "Image": "rbxassetid://115502343677706",
         "Rarity": "Nightmare",
         "PlacePrice": 25000,
         "Max": 1,
@@ -551,7 +551,7 @@
     },
 	    "Party Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://129193822593556",
+        "Image": "rbxassetid://115502343677706",
         "Rarity": "Rare",
         "PlacePrice": 420,
         "Max": 6,
@@ -589,7 +589,7 @@
     },
 	    "Purple Bonnie": {
         "Type": "Cone AOE",
-        "Image": "rbxassetid://137220020312542",
+        "Image": "rbxassetid://115502343677706",
         "Rarity": "Secret",
         "PlacePrice": 4500,
         "Max": 3,
