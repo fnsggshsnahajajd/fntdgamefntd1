@@ -324,7 +324,7 @@
     },
 	    "Glitched Scott": {
         "Type": "Splash",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://87005831820677",
         "Rarity": "Secret",
         "PlacePrice": 5500,
         "Max": 2,
@@ -358,6 +358,53 @@
                 "Range": 25,
                 "Damage": 18500,
                 "Cooldown": 4
+            }
+        ]
+    },
+	    "Glitch Mangle": {
+        "Type": "Glitch Slow",
+        "Image": "rbxassetid://113481215252492",
+        "Rarity": "Nightmare",
+        "PlacePrice": 4800,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 20,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 6200,
+                "Range": 16,
+                "Damage": 25,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 8600,
+                "Range": 17,
+                "Damage": 30,
+                "Cooldown": 1,
+                "Slow": 0.7,
+                "SlowTime": 1
+            },
+            {
+                "Price": 9000,
+                "Range": 18,
+                "Damage": 30,
+                "Cooldown": 0.8,
+                "Slow": 0.6,
+                "SlowTime": 1
             }
         ]
     },
