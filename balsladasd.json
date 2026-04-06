@@ -322,6 +322,45 @@
             }
         ]
     },
+	    "Glitched Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Secret",
+        "PlacePrice": 5500,
+        "Max": 2
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 10000,
+                "Cooldown": 4
+            },
+            {
+                "Price":6500,
+                "Range": 20,
+                "Damage": 12000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 8200,
+                "Range": 22,
+                "Damage": 15000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 9800,
+                "Range": 25,
+                "Damage": 18500,
+                "Cooldown": 4
+            }
+        ]
+    },
         "Sand Castle Foxy": {
         "Type": "Support",
         "Image": "rbxassetid://115502343677706",
