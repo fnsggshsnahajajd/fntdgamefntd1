@@ -379,7 +379,7 @@
                 "Range": 15,
                 "Damage": 50,
                 "Cooldown": 0.1,
-                "Slow": 0.1,
+                "Slow": 0.5,
                 "SlowTime": 0.1
             },
             {
@@ -387,7 +387,7 @@
                 "Range": 16,
                 "Damage": 25,
                 "Cooldown": 0.1,
-                "Slow": 0.1,
+                "Slow": 0.5,
                 "SlowTime": 0.1
             },
             {
@@ -395,7 +395,7 @@
                 "Range": 17,
                 "Damage": 100,
                 "Cooldown": 0.1,
-                "Slow": 0.1,
+                "Slow": 0.5,
                 "SlowTime": 0.1
             },
             {
@@ -403,7 +403,7 @@
                 "Range": 18,
                 "Damage": 200,
                 "Cooldown": 0.1,
-                "Slow": 0.1,
+                "Slow": 0.5,
                 "SlowTime": 0.1
             }
         ]
