@@ -327,7 +327,7 @@
         "Image": "rbxassetid://16620053009",
         "Rarity": "Secret",
         "PlacePrice": 5500,
-        "Max": 2
+        "Max": 2,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
