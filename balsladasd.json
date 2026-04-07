@@ -241,8 +241,8 @@
         "Type": "Glitch Fury",
         "Image": "rbxassetid://77221994466222",
         "Rarity": "Apex",
-        "PlacePrice": 1000,
-        "Max": 2,
+        "PlacePrice": 9500,
+        "Max": 1,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -253,26 +253,32 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 40,
-                "Cooldown": 0.05
+                "Damage": 3500,
+                "Cooldown": 2.5
             },
             {
-                "Price": 4567,
+                "Price": 12500,
                 "Range": 30,
-                "Damage": 60,
-                "Cooldown": 0.05
+                "Damage": 4500,
+                "Cooldown": 2
             },
             {
-                "Price": 8910,
+                "Price": 15600,
                 "Range": 32,
-                "Damage": 80,
-                "Cooldown": 0.05
+                "Damage": 5500,
+                "Cooldown": 2
+            },
+			{
+                "Price": 18900,
+                "Range": 32,
+                "Damage": 6500,
+                "Cooldown": 2
             },
             {
-                "Price": 11123,
-                "Range": 35,
-                "Damage": 10,
-                "Cooldown": 0.05
+                "Price": 21200,
+                "Range": 40,
+                "Damage": 8120,
+                "Cooldown": 2
             }
         ]
     },
