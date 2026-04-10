@@ -415,11 +415,11 @@
         ]
     },
 		"SoulTrap": {
-        "Type": "throw + poisoning",
+        "Type": "Splash",
         "Image": "rbxassetid://131952315485558",
         "Rarity": "Secret",
-        "PlacePrice": 1000,
-        "Max": 2,
+        "PlacePrice": 1500,
+        "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -429,27 +429,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 40,
+                "Range": 20,
                 "Damage": 200,
                 "Cooldown": 1.5
             },
             {
                 "Price": 4567,
-                "Range": 40,
+                "Range": 20,
                 "Damage": 400,
                 "Cooldown": 1.5
             },
             {
                 "Price": 8910,
-                "Range": 40,
+                "Range": 30,
                 "Damage": 600,
-                "Cooldown": 1
+                "Cooldown": 1.5
             },
 			{
                 "Price": 8910,
-                "Range": 40,
+                "Range": 30,
                 "Damage": 800,
-                "Cooldown": 0.8
+                "Cooldown": 1.5
             },
             {
                 "Price": 11123,
@@ -461,11 +461,11 @@
         ]
     },
 		"Destroyed Bonnie": {
-        "Type": "single + pull",
+        "Type": "poison + pull",
         "Image": "rbxassetid://109996929651365",
         "Rarity": "Apex",
         "PlacePrice": 1000,
-        "Max": 2,
+        "Max": 1,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
