@@ -549,6 +549,135 @@
             }
         ]
     },
+		"Lucked Puppet": {
+        "Type": "Jester + Single",
+        "Image": "rbxassetid://100778504452206",
+        "Rarity": "Apex",
+        "PlacePrice": 15500,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 40,
+                "Damage": 1200,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 23560,
+                "Range": 40,
+                "Damage": 1400,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 29560,
+                "Range": 40,
+                "Damage": 1600,
+                "Cooldown": 1.5
+            },
+			{
+                "Price": 31560
+                "Range": 40,
+                "Damage": 1800,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 37777,
+                "Range": 45,
+                "Damage": 2500,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+		"Lucked Puppet": {
+        "Type": "Jester + Single",
+        "Image": "rbxassetid://100778504452206",
+        "Rarity": "Apex",
+        "PlacePrice": 15500,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 40,
+                "Damage": 1200,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 23560,
+                "Range": 40,
+                "Damage": 1400,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 29560,
+                "Range": 40,
+                "Damage": 1600,
+                "Cooldown": 1.5
+            },
+			{
+                "Price": 31560
+                "Range": 40,
+                "Damage": 1800,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 37777,
+                "Range": 45,
+                "Damage": 2500,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+		"Lucky Freddy": {
+        "Type": "Ninja + Single",
+        "Image": "rbxassetid://108273786744554",
+        "Rarity": "Secret",
+        "PlacePrice": 777,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 250,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1777,
+                "Range": 40,
+                "Damage": 450,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 2777,
+                "Range": 35,
+                "Damage": 550,
+                "Cooldown": 0.9
+            },
+			{
+                "Price": 3777
+                "Range": 35,
+                "Damage": 750,
+                "Cooldown": 0.7
+            }
+        ]
+    },
         "Sand Castle Foxy": {
         "Type": "Support",
         "Image": "rbxassetid://115502343677706",
