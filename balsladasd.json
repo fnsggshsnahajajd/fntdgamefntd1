@@ -43,7 +43,7 @@
         "Image": "rbxassetid://100778504452206",
         "Rarity": "Apex",
         "PlacePrice": 17777,
-        "Max": 3,
+        "Max": 2,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -54,25 +54,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 260,
-                "Cooldown": 1
+                "Damage": 2777,
+                "Cooldown": 1.5
             },
             {
-                "Price": 4567,
+                "Price": 27777,
                 "Range": 25,
-                "Damage": 400,
-                "Cooldown": 1
+                "Damage": 4777,
+                "Cooldown": 1.5
             },
             {
-                "Price": 8910,
+                "Price": 37777,
                 "Range": 30,
-                "Damage": 500,
-                "Cooldown": 1
+                "Damage": 6777,
+                "Cooldown": 1.5
             },
             {
-                "Price": 11123,
+                "Price": 47777,
                 "Range": 32,
-                "Damage": 650,
+                "Damage": 9777,
                 "Cooldown": 1
             }
         ]
@@ -97,22 +97,22 @@
                 "Cooldown": 1
             },
             {
-                "Price": 4567,
+                "Price": 1777,
                 "Range": 25,
                 "Damage": 400,
-                "Cooldown": 1
+                "Cooldown": 0.8
             },
             {
-                "Price": 8910,
+                "Price": 2777,
                 "Range": 30,
                 "Damage": 500,
-                "Cooldown": 1
+                "Cooldown": 0.6
             },
             {
-                "Price": 11123,
+                "Price": 3777,
                 "Range": 32,
                 "Damage": 650,
-                "Cooldown": 1
+                "Cooldown": 0.4
             }
         ]
     },
