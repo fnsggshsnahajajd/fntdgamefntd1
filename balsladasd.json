@@ -551,10 +551,10 @@
     },
 		"Luck Freddy": {
         "Type": "Ninja",
-        "Image": "rbxassetid://90970605960790",
-        "Rarity": "Nightmare",
+        "Image": "rbxassetid://108273786744554",
+        "Rarity": "Secret",
         "PlacePrice": 12500,
-        "Max": 1,
+        "Max": 4,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -591,6 +591,51 @@
                 "Range": 45,
                 "Damage": 2500,
                 "Cooldown": 0.8
+            }
+        ]
+    },
+		"Lucked Puppet ": {
+        "Type": "Jester + Single",
+        "Image": "rbxassetid://100778504452206",
+        "Rarity": "Apex,
+        "PlacePrice": 17777,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 40,
+                "Damage": 2777,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 27777,
+                "Range": 40,
+                "Damage": 4777,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 37777,
+                "Range": 40,
+                "Damage": 6777,
+                "Cooldown": 1.5
+            },
+			{
+                "Price": 47777
+                "Range": 40,
+                "Damage": 8777,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 57777,
+                "Range": 45,
+                "Damage": 11777,
+                "Cooldown": 1.5
             }
         ]
     },
