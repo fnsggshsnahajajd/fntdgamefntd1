@@ -456,7 +456,6 @@
                 "Range": 45,
                 "Damage": 1500,
                 "Cooldown": 0.8
-				
             }
         ]
     },
@@ -501,7 +500,6 @@
                 "Range": 40,
                 "Damage": 8350,
                 "Cooldown": 1.5
-				
             }
         ]
     },
@@ -547,7 +545,6 @@
                 "Range": 45,
                 "Damage": 2500,
                 "Cooldown": 0.8
-				
             }
         ]
     },
@@ -593,7 +590,6 @@
                 "Range": 40,
                 "Damage": 650,
                 "Cooldown": 0.5
-				
             }
         ]
     },
@@ -639,7 +635,6 @@
                 "Range": 40,
                 "Damage": 650,
                 "Cooldown": 0.5
-				
             }
         ]
     },
