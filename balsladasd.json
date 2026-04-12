@@ -39,10 +39,10 @@
         ]
     },
 	    "Lucked Puppet": {
-        "Type": "Rage",
+        "Type": "Jester",
         "Image": "rbxassetid://100778504452206",
         "Rarity": "Apex",
-        "PlacePrice": 500,
+        "PlacePrice": 17777,
         "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -78,10 +78,10 @@
         ]
     },
 	    "Luck Freddy": {
-        "Type": "Rage",
+        "Type": "Ninja",
         "Image": "rbxassetid://108273786744554",
         "Rarity": "Secret",
-        "PlacePrice": 500,
+        "PlacePrice": 777,
         "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
