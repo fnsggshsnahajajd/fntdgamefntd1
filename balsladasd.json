@@ -83,8 +83,8 @@
     },
 	    "Lucked Puppet": {
         "Type": "Support",
-        "Image": "rbxassetid://134465767089289",
-        "Rarity": "Secret",
+        "Image": "rbxassetid://100778504452206",
+        "Rarity": "Apex",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
         "Max": 2,
@@ -126,7 +126,7 @@
     },
 	    "Luck Freddy": {
         "Type": "Support",
-        "Image": "rbxassetid://134465767089289",
+        "Image": "rbxassetid://108273786744554",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
