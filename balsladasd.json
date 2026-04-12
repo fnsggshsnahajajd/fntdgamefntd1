@@ -594,51 +594,6 @@
             }
         ]
     },
-		"Lucked Puppet": {
-        "Type": "Jester + Single",
-        "Image": "rbxassetid://100778504452206",
-        "Rarity": "Apex",
-        "PlacePrice": 15500,
-        "Max": 1,
-        "Offset": 0.3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 40,
-                "Damage": 1200,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 23560,
-                "Range": 40,
-                "Damage": 1400,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 29560,
-                "Range": 40,
-                "Damage": 1600,
-                "Cooldown": 1.5
-            },
-			{
-                "Price": 31560
-                "Range": 40,
-                "Damage": 1800,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 37777,
-                "Range": 45,
-                "Damage": 2500,
-                "Cooldown": 1.5
-            }
-        ]
-    },
 		"Lucky Freddy": {
         "Type": "Ninja + Single",
         "Image": "rbxassetid://108273786744554",
