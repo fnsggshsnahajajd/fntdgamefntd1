@@ -1781,25 +1781,25 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1500,
-                "Cooldown": 0.5
+                "Cooldown": 0.4
             },
             {
                 "Price": 30000,
                 "Range": 27,
                 "Damage": 1700,
-                "Cooldown": 0.4
+                "Cooldown": 0.43
             },
             {
                 "Price": 40000,
                 "Range": 30,
                 "Damage": 2000,
-                "Cooldown": 0.35
+                "Cooldown": 0.28
             },
             {
                 "Price": 50000,
                 "Range": 33,
                 "Damage": 2250,
-                "Cooldown": 0.3
+                "Cooldown": 0.22
             }
         ]
     },
