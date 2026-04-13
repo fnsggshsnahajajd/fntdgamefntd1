@@ -1793,13 +1793,13 @@
                 "Price": 40000,
                 "Range": 30,
                 "Damage": 2000,
-                "Cooldown": 0.4
+                "Cooldown": 0.35
             },
             {
                 "Price": 50000,
                 "Range": 33,
                 "Damage": 2250,
-                "Cooldown": 0.4
+                "Cooldown": 0.3
             }
         ]
     },
