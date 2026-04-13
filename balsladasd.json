@@ -541,7 +541,7 @@
         "Type": "poison + pull",
         "Image": "rbxassetid://109996929651365",
         "Rarity": "Apex",
-        "PlacePrice": 1000,
+        "PlacePrice": 12555,
         "Max": 1,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -553,32 +553,32 @@
             {
                 "Price": 0,
                 "Range": 40,
-                "Damage": 1200,
-                "Cooldown": 1.5
+                "Damage": 1555,
+                "Cooldown": 2.5
             },
             {
-                "Price": 4567,
+                "Price": 17555,
                 "Range": 40,
-                "Damage": 1400,
-                "Cooldown": 1.5
+                "Damage": 3650,
+                "Cooldown": 2.5
             },
             {
-                "Price": 8910,
+                "Price": 21555,
                 "Range": 40,
-                "Damage": 1600,
-                "Cooldown": 1
+                "Damage": 4650,
+                "Cooldown": 2
             },
 			{
-                "Price": 8910,
+                "Price": 25555,
                 "Range": 40,
-                "Damage": 1800,
-                "Cooldown": 0.8
+                "Damage": 5650,
+                "Cooldown": 1.5
             },
             {
-                "Price": 11123,
-                "Range": 45,
-                "Damage": 2500,
-                "Cooldown": 0.8
+                "Price": 27555,
+                "Range": 40,
+                "Damage": 7650,
+                "Cooldown": 1.5
             }
         ]
     },
